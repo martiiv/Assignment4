@@ -1,0 +1,11 @@
+Sepal Length,Petal Length,class
+5.7,4.5,Iris-versicolor
+5.9,4.2,Iris-versicolor
+5.9,4.8,Iris-versicolor
+6,5.1,Iris-versicolor
+5.5,3.7,Iris-versicolor
+4.9,4.5,Iris-virginica
+6.3,5.1,Iris-virginica
+6.8,5.9,Iris-virginica
+7.6,6.6,Iris-virginica
+6.2,5.4,Iris-virginica
