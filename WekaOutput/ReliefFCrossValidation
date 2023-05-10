@@ -1,0 +1,24 @@
+=== Run information ===
+
+Evaluator:    weka.attributeSelection.ReliefFAttributeEval -M -1 -D 1 -K 10
+Search:       weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Relation:     iris
+Instances:    150
+Attributes:   5
+              Sepal Length
+              Sepal Width
+              Petal Length
+              Petal Width
+              Iris Class
+Evaluation mode:    10-fold cross-validation
+
+
+
+=== Attribute selection 10 fold cross-validation (stratified), seed: 1 ===
+
+average merit      average rank  attribute
+ 0.378 +- 0.006    1.1 +- 0.3    4 Petal Width
+ 0.362 +- 0.004    1.9 +- 0.3    3 Petal Length
+ 0.142 +- 0.006    3.1 +- 0.3    1 Sepal Length
+ 0.121 +- 0.007    3.9 +- 0.3    2 Sepal Width
+
